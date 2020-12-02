@@ -1,4 +1,4 @@
-# Statistics & EDA- GDP Analysis Case Study
+# Exploratory Data Analysis- GDP Analysis Case Study
 
 Data
 
